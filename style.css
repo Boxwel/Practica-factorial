@@ -6,8 +6,17 @@ body {
 
 .card {
     width: 30rem;
-    height: 40rem;
+    height: 30rem;
 }
 .card-title {
     font-family: "Bebas Neue", sans-serif;
+}
+.input-group {
+  width: 20rem;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+.salida-numero {
+  font-family: "Poppins", sans-serif;
 }
